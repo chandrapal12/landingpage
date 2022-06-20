@@ -1,0 +1,42 @@
+@media screen and (max-width:480px){
+    .btn{
+        display:block;
+        font-size:18px;
+    }
+    .container h1{
+        font-size:32px;
+        margin-bottom:8px;
+    }
+    .container h2{
+        font-size:18px;
+    }
+    section{
+        padding:25px 0 15px 0;
+    }
+    .feature{
+        width:100%;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        text-align: left;
+        font-size:16px;
+        margin-bottom:10px;
+    }
+    .feature img{
+        width:15%;
+        margin-right:20px;
+        margin-bottom:0;
+    }
+    footer li {
+        display:block;
+        margin:5px 0;
+    }
+    footer{
+        padding:30px 0 10px 0;
+    }
+    .submenu{
+        width:100%;
+        position: relative;
+    }
+}
+   
